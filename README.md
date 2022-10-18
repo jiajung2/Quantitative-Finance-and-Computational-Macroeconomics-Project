@@ -3,6 +3,7 @@
 
 
 •	For the Computational Macroeconomics assignment, 
+
 In Assignment 1, I practice basic string and basic math function usage in python
 In Assignment 2,  I practice the numpy, matplotlib, and computational optimization tools utilized in python
 In Assignment 3, I made an application of pandas of organizing the dataset to compute the average annual growth rate of GDP per capita for each country in the data and compute a linear regression of average GDP per capita growth on GDP per capita in the initial year.
