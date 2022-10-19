@@ -1,5 +1,5 @@
 
-•	For the Quantitative Finance project, 
+•	For the Quantitative Finance Project, 
 
 I choose to analyze the performance level of Tesla Company and compare its performance with other traditional companies after Covid Period. 
 
