@@ -18,3 +18,5 @@ In Assignment 3, I made an application of pandas of organizing the dataset to co
 
 In Assignment 4, I studied First-Order Difference Equation of both Temporary Shocks and permanent shocks to predict economic outcome 
 
+In Assignment 5, I Conducted a thorough analysis in level of performance of Business Cycle Data including Real GDP per capita, 3-month T-Bill rate, PCE inflation rate, Unemployment rate by visualing their deviation results and compared different statistical measures such as mean, standard deviation, and correaltion to overall GDP health level
+
