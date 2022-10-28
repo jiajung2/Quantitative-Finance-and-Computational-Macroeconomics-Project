@@ -18,3 +18,5 @@ Assignment 5-Dynamic optimization of utility maximization in Macroeconomics with
 
 
 Assignment 6-Perpetual inventory method for capital and investment simulation
+
+Assignment 7-Autoregressive model-AR(1) process simulation under different scenarios and model simulation of TFP with stochastic growth 
