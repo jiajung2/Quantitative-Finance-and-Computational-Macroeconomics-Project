@@ -14,6 +14,7 @@ Assignment 3-First-Order Difference Equation of both Temporary Shocks and perman
 
 Assignment 4-A thorough analysis in level of performance of Business Cycle Data including Real GDP per capita, 3-month T-Bill rate, PCE inflation rate, Unemployment rate by visualing their deviation results and compared different statistical measures such as mean, standard deviation, and correaltion to overall GDP health level
 
-Assignment 5-perpetual inventory method for capital and investment simulation
+Assignment 5-Dynamic optimization of utility maximization in Macroeconomics with budget constraint
 
-Assignment 6- Dynamic optimization of utility maximization in Macroeconomics with budget constraint
+
+Assignment 6-Perpetual inventory method for capital and investment simulation
