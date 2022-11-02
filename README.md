@@ -20,3 +20,5 @@ Assignment 5-Dynamic optimization of utility maximization in Macroeconomics with
 Assignment 6-Perpetual inventory method for capital and investment simulation
 
 Assignment 7-Autoregressive model-AR(1) process and TFP with stochastic growth simulation
+
+Economic Index Appraisal project(GDP)-Evaluated GDP, Real GDP, and three sectors(Business, Household, and Government) growth level over the past three years
