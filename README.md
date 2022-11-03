@@ -21,4 +21,6 @@ Assignment 6-Perpetual inventory method for capital and investment simulation
 
 Assignment 7-Autoregressive model-AR(1) process and TFP with stochastic growth simulation
 
+Assignment 8-Apply Baseline RBC Model without Labor
+
 US Macroeconomics Index Appraisal Project-Evaluated GDP, Real GDP, and three sectors(Business, Household, and Government) growth level over the past three years, tested the relationship between unemployment level and CPI before and after COVID period
