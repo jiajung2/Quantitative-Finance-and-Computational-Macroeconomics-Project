@@ -23,4 +23,6 @@ Assignment 7-Autoregressive model-AR(1) process and TFP with stochastic growth s
 
 Assignment 8-Apply Baseline RBC(Real Business Cycle) Model without Labor
 
+Assignment 9-Evaluate Four-Period Cake-Eating Problem to find out the optimal cake consumption and quantity of cake left in each period, and apply Stochastic Solow Growth Model for correlation between output, consumption, and investment and compare with the actual correlations in the business cycle
+
 US Macroeconomics Index Appraisal Project-Evaluated GDP, Real GDP, and three sectors(Business, Household, and Government) growth level over the past three years, tested the relationship between unemployment level and CPI before and after COVID period
