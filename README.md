@@ -1,7 +1,7 @@
 
 ## Quantitative Finance Project
 
-I choose to analyze the performance level of Tesla Company and compare its performance with other traditional companies after Covid Period. I first constructed and compared two stocks' important statistics measurement of Sharpe ratio after the covid period,and took four different hypothesis tests to assess correlation parameters, performance dependence. Also I applied CAPM model and Fama-French four factor analysis to determine stock's return and volatility level in metrics of Alpha, Beta coefficient for finding out the reason for excessive return compared to the market level and finally ran Monte Carlo simulation method for historical return assessment
+I choose to analyze the performance level of Tesla Company and compare its performance with other technology companies after Covid Period. I first constructed and compared two stocks' important statistics measurement of Sharpe ratio after the covid period,and took four different hypothesis tests to assess correlation parameters, performance dependence. Also I applied CAPM model and Fama-French four factor analysis to determine stock's return and volatility level in metrics of Alpha, Beta coefficient for finding out the reason for excessive return compared to the market level and finally ran Monte Carlo simulation method for historical return assessment
 
 
 ## Computational Macroeconomics Assignment
@@ -26,4 +26,5 @@ Assignment 8-Apply Baseline RBC(Real Business Cycle) Model without Labor
 Assignment 9-Evaluate Four-Period Cake-Eating Problem to find out the optimal cake consumption and quantity of cake left in each period, and apply Stochastic Solow Growth Model for correlation between output, consumption, and investment and compare with the actual correlations in the business cycle
 
 ## US Macroeconomics Index Appraisal Project
+
 US Macroeconomics Index Appraisal Project-Evaluated GDP, and three sectors(Business, Household, and Government) growth level over the past three years, tested the relationship between unemployment level and other monetary policy measure effect taken by federal reserve like federal reserve fund rate before and after COVID period
