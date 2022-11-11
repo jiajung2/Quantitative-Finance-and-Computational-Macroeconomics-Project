@@ -3,7 +3,7 @@
 I choose to analyze the performance level of Tesla Company and compare its performance with other technology companies after Covid Period. I first constructed and compared two stocks' important statistics measurement of Sharpe ratio after the covid period,and took four different hypothesis tests to assess correlation parameters, performance dependence. Also I applied CAPM model and Fama-French four factor analysis to determine stock's return and volatility level in metrics of Alpha, Beta coefficient for finding out the reason for excessive return compared to the market level and finally ran Monte Carlo simulation method for historical return assessment
 
 
-## Computational Macroeconomics Assignment
+## Computational Macroeconomics Assignments
 
 Assignment 1-Numpy, Matplotlib, and Computational optimization tools utilized in python
 
