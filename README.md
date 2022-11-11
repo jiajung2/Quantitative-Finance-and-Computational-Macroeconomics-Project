@@ -19,7 +19,7 @@ Assignment 6-Perpetual inventory method for capital and investment simulation
 
 Assignment 7-Autoregressive model-AR(1) process and TFP with stochastic growth simulation
 
-Assignment 8-Apply Baseline RBC(Real Business Cycle) Model without Labor factor
+Assignment 8-Apply Baseline RBC(Real Business Cycle) Model without Labor supply factor
 
 
 Assignment 9-Four-Period Cake-Eating Problem to find out the optimal cake consumption and quantity of cake left in each period, and Stochastic Solow Growth Model for correlation between output, consumption, and investment and the comparsion to the actual correlations in the business cycle
