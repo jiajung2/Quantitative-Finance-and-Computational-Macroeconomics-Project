@@ -24,6 +24,8 @@ Assignment 8-Apply Baseline RBC(Real Business Cycle) Model without Labor supply 
 
 Assignment 9-Four-Period Cake-Eating Problem to find out the optimal cake consumption and quantity of cake left in each period, and Stochastic Solow Growth Model for correlation between output, consumption, and investment and the comparsion to the actual correlations in the business cycle
 
+Assignment 10- Investigation of degree to which the central bank responds to changes inflation affects how exogenous shocks to demand or inflation propagate
+
 
 ## US Macroeconomics Index Appraisal Project
 
