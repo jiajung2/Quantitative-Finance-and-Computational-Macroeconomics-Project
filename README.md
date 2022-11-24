@@ -26,6 +26,8 @@ Assignment 9-Four-Period Cake-Eating Problem to find out the optimal cake consum
 
 Assignment 10- Investigation of degree to which the central bank responds to changes inflation affects how exogenous shocks to demand or inflation propagate
 
+Assignment 11-Compute two stochastic simulations of the new-Keynesian model and compare volatility with the change of factors of phi_pi by federal reserve
+
 
 ## US Macroeconomics Index Appraisal Project
 
