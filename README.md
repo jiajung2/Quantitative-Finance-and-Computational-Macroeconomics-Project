@@ -31,4 +31,13 @@ Assignment 11-Compute two stochastic simulations of the new-Keynesian model and 
 
 ## US Macroeconomics Index Appraisal Project
 
-Evaluated GDP, and three sectors(Business, Household, and Government) growth level over the past three years, tested the relationship between unemployment level and other monetary policy measure effect taken by federal reserve like federal reserve fund rate before and after COVID period
+• Evaluated GDP, and three sectors(Business, Household, and Government) growth level over the past three years, tested the relationship between unemployment level and other monetary policy measure effect taken by federal reserve like federal reserve fund rate before and after COVID period
+
+
+## RBC Model with Different Intertemporal Elasticities of Substitution
+
+•	Simulated the dynamic equilibrium of centralized real business cycle model with different intertemporal elasticities of substitution to determine the maximization present value of lifetime utility in the household sector
+
+•	Adjusted endogenous variables within the household Euler, TFP evolution, investment & output and goods market clearing equation by setting different stochastic simulation periods to display the effect of TFP shock by plotting deviations graphs, computed the impulse responses at economic steady state and determined overall volatility of output, consumption, and investment
+
+
